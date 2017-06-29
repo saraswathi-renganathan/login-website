@@ -1,0 +1,1 @@
+$(document).ready(function(){$(document).click(function(a){var b=$("#bs-example-navbar-collapse-1");b&&"navbar-collapse collapse in"==b.attr("class")&&b.attr("class","navbar-collapse collapse")})});

@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Aller';
+    src: url('../fonts/AllerBD.woff2') format('woff2'),
+         url('../fonts/AllerBD.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Aller';
+    src: url('../fonts/AllerRG.woff2') format('woff2'),
+         url('../fonts/AllerRG.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
