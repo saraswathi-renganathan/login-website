@@ -1,0 +1,15 @@
+a {
+		text-decoration: none;
+	}
+	body {
+		color: white;
+		font-family: 'Open Sans', sans-serif;
+		-webkit-filter: blur(0.1px);
+		background-image: url('../images/1.jpeg'); 
+		background-position: fixed;
+		background-repeat:repeat;
+		background-size:100% 100%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+	}
